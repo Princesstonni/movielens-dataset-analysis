@@ -3,16 +3,15 @@
 # 🎬 MovieLens Dataset Analysis
 
 ## Table of Contents
-1. [Executive Summary](#executive-summary)  
-2. [Introduction](#1-introduction)  
-3. [Dataset Overview](#2-dataset-overview)  
-4. [Python Analysis](#3-python-analysis)  
-5. [Key Metrics and Visualizations](#4-key-metrics-and-visualizations)  
-6. [Visualizations and Dashboard](#5-visualizations-and-dashboard)  
-7. [Insights and Findings](#6-insights-and-findings)  
-8. [Dataset Instructions](#7-dataset-instructions)  
-9. [Conclusion](#8-conclusion)  
-10. [Project Files](#9-project-files)  
+1. [Introduction](#1-introduction)  
+2. [Dataset Overview](#2-dataset-overview)  
+3. [Python Analysis](#3-python-analysis)  
+4. [Key Metrics and Visualizations](#4-key-metrics-and-visualizations)  
+5. [Visualizations and Dashboard](#5-visualizations-and-dashboard)  
+6. [Insights and Findings](#6-insights-and-findings)  
+7. [Dataset Instructions](#7-dataset-instructions)  
+8. [Conclusion](#8-conclusion)  
+9. [Project Files](#9-project-files)  
 
 ---
 
